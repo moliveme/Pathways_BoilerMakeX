@@ -1,2 +1,2 @@
-# Pathways_BoilerMakeX
+# Pathways BoilerMakeX
 Our submission for the Purdue BoilerMake hackathon, 2023
